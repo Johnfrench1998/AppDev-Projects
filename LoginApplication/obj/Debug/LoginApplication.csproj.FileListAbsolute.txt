@@ -1,0 +1,11 @@
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\bin\Debug\LoginApplication.exe.config
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\bin\Debug\LoginApplication.exe
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\bin\Debug\LoginApplication.pdb
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.csproj.AssemblyReference.cache
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.frmMain.resources
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.cache
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.exe
+H:\Students_Folder\John French\AppDev1Quests\LoginApplication\obj\Debug\LoginApplication.pdb

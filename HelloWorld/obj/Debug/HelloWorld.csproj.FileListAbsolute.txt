@@ -1,0 +1,11 @@
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.frmMain.resources
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\bin\Debug\HelloWorld.exe.config
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\bin\Debug\HelloWorld.exe
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\bin\Debug\HelloWorld.pdb
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.exe
+H:\Students_Folder\John French\AppDev1Quests\HelloWorld\obj\Debug\HelloWorld.pdb
